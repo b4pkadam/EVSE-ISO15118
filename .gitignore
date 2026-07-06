@@ -14,13 +14,13 @@ secc*
 output.txt
 
 # Private keys
-*.key
-keys.log
-*.pem
-*.crt
+# *.key
+# keys.log
+# *.pem
+# *.crt
 
-# Build directories
-build/
+# old Build directories
+old_bineries/
 
 # Markdown (optional)
 *.md
