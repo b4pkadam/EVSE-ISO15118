@@ -1,0 +1,17 @@
+# Ignore Markdown files
+*.md
+
+# Ignore executable files
+*.exe
+
+# Optional: Ignore build/output folders
+build/
+bin/
+Debug/
+Release/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS files
+.DS_Store
