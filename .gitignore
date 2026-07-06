@@ -7,7 +7,7 @@
 # Executables
 secc*
 !secc/
-*.exe
+# *.exe
 
 # Logs
 *.log
