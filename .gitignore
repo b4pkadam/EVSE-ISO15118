@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Object files
+*.o
+
+# Executables
+secc*
+!secc/
+*.exe
+
+# Logs
+*.log
+output.txt
+
+# Private keys
+*.key
+keys.log
+*.pem
+*.crt
+
+# Build directories
+build/
+
+# Markdown (optional)
+*.md
